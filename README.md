@@ -2,6 +2,16 @@
 
 A simple and interactive **AI Personal Assistant** built with **Flask**, powered by **DeepSeek AI models** through the **SambaNova API**. The application enables users to ask general questions and summarize lengthy emails using a clean and responsive web interface.
 
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web_Framework-black?style=for-the-badge&logo=flask)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI-SDK-412991?style=for-the-badge&logo=openai)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
+
 ---
 
 ##  Features
@@ -43,8 +53,9 @@ AI-Personal-Assistant/
 │   └── index.html
 │
 ├── main.py
-├── requirements.txt
+├── Requirements.txt
 ├── .env.example
+├── Architecture.png
 └── README.md
 ```
 
