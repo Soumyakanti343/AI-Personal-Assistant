@@ -45,8 +45,7 @@ AI-Personal-Assistant/
 ├── main.py
 ├── requirements.txt
 ├── .env.example
-├── README.md
-└── LICENSE
+└── README.md
 ```
 
 ---
@@ -164,7 +163,7 @@ http://127.0.0.1:5000
 ---
 
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 -  Chat history
 -  Dark mode
